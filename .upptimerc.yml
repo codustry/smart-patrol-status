@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: demo.upptime.js.org
-#   baseUrl:  /smart-patrol-status
+  baseUrl:  /smart-patrol-status
   logoUrl: https://www.dmcr.go.th/front/template/default/public/image/icon/apple-icon-60x60.png
   name: DMCR Smart Patrol Status
   introTitle: "DMCR Smart Patrol Status"
