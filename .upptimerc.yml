@@ -7,6 +7,8 @@ sites:
     url: https://smartpatrol.dmcr.go.th/
   - name: Prod API
     url: https://smartpatrol.dmcr.go.th/api/health
+  - name: Prod Geoserver
+    url: http://gis-smartpatrol.dmcr.go.th/geoserver
   - name: Azure Dev Web
     url: https://smartpatrol3.nutchanon.org/
   - name: Azure API
