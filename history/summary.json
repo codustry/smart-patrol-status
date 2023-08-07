@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 335,
+      "2023-08-07": 374,
       "2023-08-06": 425
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 670,
+      "2023-08-07": 748,
       "2023-08-06": 850
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 3399,
     "timeYear": 3399,
     "dailyMinutesDown": {
-      "2023-08-07": 335,
+      "2023-08-07": 374,
       "2023-08-06": 425
     }
   },
@@ -121,19 +121,19 @@
     "url": "https://smartpatrol2.nutchanon.org/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol2.nutchanon.org.ico",
     "slug": "dev-api",
-    "status": "down",
-    "uptime": "1.25%",
-    "uptimeDay": "1.25%",
-    "uptimeWeek": "1.25%",
-    "uptimeMonth": "1.25%",
-    "uptimeYear": "1.25%",
-    "time": 2135,
-    "timeDay": 2135,
-    "timeWeek": 2135,
-    "timeMonth": 2135,
-    "timeYear": 2135,
+    "status": "up",
+    "uptime": "1.20%",
+    "uptimeDay": "1.20%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
+    "time": 1823,
+    "timeDay": 1823,
+    "timeWeek": 1823,
+    "timeMonth": 1823,
+    "timeYear": 1823,
     "dailyMinutesDown": {
-      "2023-08-07": 325,
+      "2023-08-07": 365,
       "2023-08-06": 425
     }
   }
