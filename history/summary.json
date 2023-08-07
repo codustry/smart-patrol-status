@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol.dmcr.go.th.ico",
     "slug": "prod-wev",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 505,
+      "2023-08-07": 1007,
       "2023-08-06": 425
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 1010,
+      "2023-08-07": 2014,
       "2023-08-06": 850
     }
   },
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol3.nutchanon.org.ico",
     "slug": "azure-dev-web",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "64.92%",
+    "uptimeDay": "64.92%",
+    "uptimeWeek": "64.92%",
+    "uptimeMonth": "64.92%",
+    "uptimeYear": "64.92%",
     "time": 1158,
     "timeDay": 1158,
     "timeWeek": 1158,
     "timeMonth": 1158,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2023-08-07": 0
+      "2023-08-07": 502
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol3.nutchanon.org.ico",
     "slug": "azure-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "64.93%",
+    "uptimeDay": "64.93%",
+    "uptimeWeek": "64.93%",
+    "uptimeMonth": "64.93%",
+    "uptimeYear": "64.93%",
     "time": 233,
     "timeDay": 233,
     "timeWeek": 233,
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-08-07": 0
+      "2023-08-07": 502
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol2.nutchanon.org.ico",
     "slug": "dev-web",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 3399,
     "timeDay": 3399,
     "timeWeek": 3399,
     "timeMonth": 3399,
     "timeYear": 3399,
     "dailyMinutesDown": {
-      "2023-08-07": 505,
+      "2023-08-07": 1007,
       "2023-08-06": 425
     }
   },
@@ -125,12 +125,12 @@
     "url": "https://smartpatrol2.nutchanon.org/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol2.nutchanon.org.ico",
     "slug": "dev-api",
-    "status": "up",
-    "uptime": "15.06%",
-    "uptimeDay": "15.06%",
-    "uptimeWeek": "15.06%",
-    "uptimeMonth": "15.06%",
-    "uptimeYear": "15.06%",
+    "status": "down",
+    "uptime": "44.84%",
+    "uptimeDay": "44.84%",
+    "uptimeWeek": "44.84%",
+    "uptimeMonth": "44.84%",
+    "uptimeYear": "44.84%",
     "time": 1823,
     "timeDay": 1823,
     "timeWeek": 1823,
