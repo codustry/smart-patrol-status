@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 4,
+      "2023-08-07": 325,
       "2023-08-06": 425
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-07": 8,
+      "2023-08-07": 650,
       "2023-08-06": 850
     }
   },
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol2.nutchanon.org.ico",
     "slug": "dev-web",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 3399,
     "timeDay": 3399,
     "timeWeek": 3399,
     "timeMonth": 3399,
     "timeYear": 3399,
     "dailyMinutesDown": {
-      "2023-08-07": 4,
+      "2023-08-07": 325,
       "2023-08-06": 425
     }
   },
@@ -121,19 +121,19 @@
     "url": "https://smartpatrol2.nutchanon.org/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol2.nutchanon.org.ico",
     "slug": "dev-api",
-    "status": "down",
+    "status": "up",
     "uptime": "0.03%",
     "uptimeDay": "0.03%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
-    "time": 2615,
-    "timeDay": 2615,
-    "timeWeek": 2615,
-    "timeMonth": 2615,
-    "timeYear": 2615,
+    "time": 2018,
+    "timeDay": 2018,
+    "timeWeek": 2018,
+    "timeMonth": 2018,
+    "timeYear": 2018,
     "dailyMinutesDown": {
-      "2023-08-07": 4,
+      "2023-08-07": 325,
       "2023-08-06": 425
     }
   }
