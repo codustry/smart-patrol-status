@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 544,
+      "2023-08-08": 583,
       "2023-08-07": 1440,
       "2023-08-06": 425
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 1088,
+      "2023-08-08": 1166,
       "2023-08-07": 2880,
       "2023-08-06": 850
     }
@@ -48,18 +48,20 @@
     "url": "http://gis-smartpatrol.dmcr.go.th/geoserver",
     "icon": "https://icons.duckduckgo.com/ip3/gis-smartpatrol.dmcr.go.th.ico",
     "slug": "prod-geoserver",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1558,
     "timeDay": 1612,
     "timeWeek": 1558,
     "timeMonth": 1558,
     "timeYear": 1558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "Azure Dev Web",
@@ -67,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol3.nutchanon.org.ico",
     "slug": "azure-dev-web",
     "status": "down",
-    "uptime": "38.59%",
+    "uptime": "37.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.59%",
-    "uptimeMonth": "38.59%",
-    "uptimeYear": "38.59%",
+    "uptimeWeek": "37.98%",
+    "uptimeMonth": "37.98%",
+    "uptimeYear": "37.98%",
     "time": 1147,
     "timeDay": 1107,
     "timeWeek": 1147,
     "timeMonth": 1147,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2023-08-08": 544,
+      "2023-08-08": 583,
       "2023-08-07": 935
     }
   },
@@ -88,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol3.nutchanon.org.ico",
     "slug": "azure-api",
     "status": "down",
-    "uptime": "38.60%",
+    "uptime": "37.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.60%",
-    "uptimeMonth": "38.60%",
-    "uptimeYear": "38.60%",
+    "uptimeWeek": "37.98%",
+    "uptimeMonth": "37.98%",
+    "uptimeYear": "37.98%",
     "time": 236,
     "timeDay": 251,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-08-08": 544,
+      "2023-08-08": 583,
       "2023-08-07": 935
     }
   },
@@ -120,7 +122,7 @@
     "timeMonth": 2862,
     "timeYear": 2862,
     "dailyMinutesDown": {
-      "2023-08-08": 544,
+      "2023-08-08": 583,
       "2023-08-07": 1440,
       "2023-08-06": 425
     }
@@ -131,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol2.nutchanon.org.ico",
     "slug": "dev-api",
     "status": "down",
-    "uptime": "65.94%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "65.94%",
-    "uptimeMonth": "65.94%",
-    "uptimeYear": "65.94%",
+    "uptime": "64.89%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "64.89%",
+    "uptimeMonth": "64.89%",
+    "uptimeYear": "64.89%",
     "time": 1603,
     "timeDay": 1340,
     "timeWeek": 1603,
     "timeMonth": 1603,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2023-08-08": 31,
+      "2023-08-08": 70,
       "2023-08-07": 365,
       "2023-08-06": 425
     }
