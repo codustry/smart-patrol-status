@@ -1,7 +1,7 @@
 url: https://smartpatrol2.nutchanon.org/api/health
-status: down
-code: 502
-responseTime: 2648
-lastUpdated: 2023-08-20T09:29:15.732Z
+status: up
+code: 200
+responseTime: 310
+lastUpdated: 2023-08-20T11:05:01.108Z
 startTime: 2023-08-06T16:55:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
